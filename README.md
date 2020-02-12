@@ -1,6 +1,6 @@
 # Engineering Team Space Starter
 
-Collection of preset articles for software engineering teams. This can be used for team wiki such e.g. Confluence space.
+Basic structure of pages for software engineering team space. This can be used for team wiki such e.g. Confluence space.
 
 ## Index
 
