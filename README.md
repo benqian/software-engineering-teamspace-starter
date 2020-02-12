@@ -1,4 +1,4 @@
-# Engineering Teamspace Starter
+# Engineering Team Space Starter
 
 Collection of preset articles for software engineering teams. This can be used for team wiki such e.g. Confluence space.
 
@@ -6,20 +6,20 @@ Collection of preset articles for software engineering teams. This can be used f
 
 - [Home](#home)
 - [New to NAME?](#new-to-name)
-  - [Software Engineer On-boarding Guide](#)
-  - [Product Manager On-boarding Guide](#)
-  - [QA Engineer On-boarding Guide](#)
-  - [Engineering Manager On-boarding Guide](#)
-- [Team Values](#Home)
-- [How We Work](#)
-  - [Development Process](#)
-  - [Hiring Process](#)
-- [Technical Docs](#)
-  - [Architecture](#)
-  - [Guidelines](#)
-  - [Resources](#)
-- [Stakeholders](#)
-- [Thank You](#)
+  - [Software Engineer On-boarding Guide](#software-engineer-on-boarding-guide)
+  - [Product Manager On-boarding Guide](#product-manager-on-boarding-guide)
+  - [QA Engineer On-boarding Guide](#qa-engineer-on-boarding-guide)
+  - [Engineering Manager On-boarding Guide](#engineering-manager-on-boarding-guide)
+- [Team Values](#team-values)
+- [How We Work](#how-we-work)
+  - [Development Process](#development-process)
+  - [Hiring Process](#hiring-process)
+- [Technical Docs](#technical-docs)
+  - [Architecture](#architecture)
+  - [Guidelines](#guidelines)
+  - [Resources](#resources)
+- [Stakeholders](#stakeholders)
+- [Thank You](#thank-you)
 
 ## Home
 
