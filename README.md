@@ -10,7 +10,8 @@ Basic structure of pages for software engineering team space. This can be used f
   - [Product Manager On-boarding Guide](#product-manager-on-boarding-guide)
   - [QA Engineer On-boarding Guide](#qa-engineer-on-boarding-guide)
   - [Engineering Manager On-boarding Guide](#engineering-manager-on-boarding-guide)
-- [Team Values](#team-values)
+- [Our Values](#team-values)
+- [Our Vision](#team-vision)
 - [How We Work](#how-we-work)
   - [Development Process](#development-process)
   - [Hiring Process](#hiring-process)
@@ -33,7 +34,9 @@ Basic structure of pages for software engineering team space. This can be used f
 
 ### Engineering Manager On-boarding Guide
 
-## Team Values
+## Our Values
+
+## Our Vision
 
 ## How We Work
 
