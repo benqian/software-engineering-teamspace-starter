@@ -19,6 +19,10 @@ Basic structure of pages for software engineering team space. This can be used f
   - [Architecture](#architecture)
   - [Guidelines](#guidelines)
   - [Resources](#resources)
+- [Learning and Training](#learning-and-training)
+  - [Knowledge Exchange Sessions](#knowledge-exchange-sessions)
+  - [Conferences and Events](#conferences-and-events)
+  - [Learning Resources](#learning-resources)
 - [Stakeholders](#stakeholders)
 - [Thank You](#thank-you)
 
