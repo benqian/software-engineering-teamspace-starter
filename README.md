@@ -9,7 +9,9 @@ Basic structure of pages for software engineering team space. This can be used f
 - [Our Vision](#our-vision)
 - [How We Work](#how-we-work)
   - [Development Process](#development-process)
+    - [Development Process Decision Records](#development-process-recision-records)
   - [Hiring Process](#hiring-process)
+    - [Hiring Process Decision Records](#hiring-process-recision-records)
   - [Onboarding](#onboarding)
     - [Software Engineer On-boarding Guide](#software-engineer-on-boarding-guide)
     - [Product Manager On-boarding Guide](#product-manager-on-boarding-guide)
@@ -17,6 +19,7 @@ Basic structure of pages for software engineering team space. This can be used f
 - [OKRs](#okrs)
 - [Technical Docs](#technical-docs)
   - [Architecture](#architecture)
+    - [Architecture Decision Records](#architecture-decision-records)
   - [Guidelines](#guidelines)
   - [Resources](#resources)
 - [Learning and Training](#learning-and-training)
@@ -51,9 +54,17 @@ All pages explaining various work processes. Flow charts and other diagrams can 
 
 Everything that’s related to explaining team’s develoment process and sub-processes: QA, contribution/branching etc.
 
+#### Development Process Decision Records
+
+List of recorded decisions in [ADR](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) fashion.
+
 ### Hiring Process
 
 Steps of the hiring process for each possible role, as well as interview templates with questions.
+
+#### Hiring Process Decision Records
+
+List of recorded decisions in [ADR](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) fashion.
 
 ### Onboarding
 
