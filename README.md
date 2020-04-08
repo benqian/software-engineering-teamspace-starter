@@ -27,7 +27,7 @@ Basic structure of pages for software engineering team space. This can be used f
   - [Conferences and Events](#conferences-and-events)
   - [Learning Resources](#learning-resources)
 - [Stakeholders](#stakeholders)
-- [Changelog](#changelog)
+- [Latest Updates](#latest-updates)
 - [Thank You](#thank-you)
 
 ## Home
@@ -122,7 +122,7 @@ Technical resources, including scripts, code snippets, book/course/podcast recom
 
 Main stakeholders of the team and their contact details.
 
-## Changelog
+## Latest Updates
 
 Recording of manager updates for the team.
 
